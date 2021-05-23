@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jiwoo's Resume
 
 You can use the [editor on GitHub](https://github.com/steve3537/steve3537.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
