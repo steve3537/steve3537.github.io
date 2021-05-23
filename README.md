@@ -14,7 +14,7 @@ Syntax highlighted code block
 
 > 이미지는 위에다 보여줄게요
 
-![**래서**판다!!!!!]{2lc8il076hq1la7gjl25](https://user-images.githubusercontent.com/77600990/119265172-ba916c00-bc20-11eb-8781-78369875bf68.jpg}
+![**래서**판다!!!!!](2lc8il076hq1la7gjl25](https://user-images.githubusercontent.com/77600990/119265172-ba916c00-bc20-11eb-8781-78369875bf68.jpg)
 
 # 구황 작물
 - 고구마
@@ -77,7 +77,7 @@ let me
 ```
 
 > 링크는 어떻게 쓰나요?
-[링크제목적어주세요]{https://www.naver.com}
+[링크제목적어주세요](https://www.naver.com)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
